@@ -1,6 +1,6 @@
 - 👋 Hi, I’m XXD
 - 👀 I’m interested in
-    - Programming languages like Python, C/C++, SQL, Javascript, nodeJS, Java, Rust also HTML and CSS.
+    - Programming languages like Python, C/C++, SQL, Javascript, nodeJS, Java, Rust also HTML, PHP and CSS.
     - Building PC and PC components like CPU, Graphics Card, NIC, RAM, Hard disk and so on.
     - Discover in Operating Systems like Windows, Linux and MacOS.
 - 🌱 I’m currently an IT Diploma Student in private college.

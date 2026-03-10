@@ -7,7 +7,7 @@
 - ✨ I'm hosting a server with Linux Ubuntu OS.
 - 📫 How to reach me
     - Email: xxd051030@gmail.com
-    - Website: https://xxd.ddns.net
+    - Website: https://xxd.lol
     - Discord: xxd1
 - ⚡ Feel free and have fun!
 

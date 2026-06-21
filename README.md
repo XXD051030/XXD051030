@@ -1,4 +1,4 @@
-- 👋 Hi, I’m XXD
+- 👋 Hi, I’m XXD (Zhi Yang)
 - 👀 I’m interested in
     - languages like Python, C/C++, SQL, Javascript, Java, Rust also HTML, PHP and CSS.
     - Building PC and PC components like CPU, Graphics Card, NIC, RAM, Hard disk and so on.
